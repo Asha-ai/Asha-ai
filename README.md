@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Asha-ai/Asha-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with ML projects on "Telecom Domain" 
 - 🌱 I’m currently learning cloud services related to DataScience
 - 👯 I’m looking to collaborate on ML Trainings,blogs and hackathons ...
